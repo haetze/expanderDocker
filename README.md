@@ -1,5 +1,5 @@
 # expanderDocker
-Dockerfile, Makefile and a start-script for macOS for [https://fldit-www.cs.uni-dortmund.de/~peter/ExpNeu/Welcome.html](Expander 2).
+Dockerfile, Makefile and a start-script for macOS for (Expander 2)[https://fldit-www.cs.uni-dortmund.de/~peter/ExpNeu/Welcome.html].
 
 
 ## Building Dockerimage from scratch
