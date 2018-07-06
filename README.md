@@ -23,4 +23,6 @@ Dockerfile, Makefile and a start-script for [Expander 2](https://fldit-www.cs.un
 ## Notes
 - To load your own Specifications store file at ~/ExpanderLib/ and load it with the name in entry fiel + ENTER
 
-  
+## rohugs Docker
+Dockerfile to compile rohugs ready for [Expander 2](https://fldit-www.cs.uni-dortmund.de/~peter/ExpNeu/Welcome.html).
+It expects to to have the Expander source in ~/ExpanderSrc. To start see rohugs startMac, other platforms analog.
