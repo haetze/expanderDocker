@@ -26,3 +26,4 @@ Dockerfile, Makefile and a start-script for [Expander 2](https://fldit-www.cs.un
 ## rohugs Docker
 Dockerfile to compile rohugs ready for [Expander 2](https://fldit-www.cs.uni-dortmund.de/~peter/ExpNeu/Welcome.html).
 It expects to to have the Expander source in ~/ExpanderSrc. To start see rohugs/startMac, other platforms analog.
+System.hs path variables still need to be changed accordingly.
