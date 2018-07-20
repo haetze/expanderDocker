@@ -5,7 +5,7 @@ Dockerfile, Makefile and a start-script for [Expander 2](https://fldit-www.cs.un
 ## Building Dockerimage from scratch
 1. Download ohexp.tgz with ```make download```
 2. Change set two constants in ohexp/Expander2/System.hs
-  - ```builtinLibDir = "Examples" ++ [fileSeparator]```
+  - ```builtinLib file = "Examples" ++ [fileSeparator] ++ file```
   - ```userLibDir = "ExpanderLib" ++ [fileSeparator]```
 3. ```make all```
 
